@@ -1,5 +1,5 @@
+<p align="center"> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="banner" width="500" height="200" > </p>
 
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="banner" width="500" height="200" >
 <h1 align="center">Hi 👋, I'm Aijaz</h1>
 <h3 align="center">A Data enthusiast</h3>
 <img align="right" alt="Coding" width="400"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiMGM1NWNmNTNiNmYwZjhhNTRiYTBlYTJiZjY1MGE3NGFjY2E3MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
