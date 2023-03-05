@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/736x/92/ea/c2/92eac2985b351b5aec515e0ebe27e092.jpg)]
 <h1 align="center">Hi 👋, I'm Aijaz</h1>
 <h3 align="center">A Data enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiMGM1NWNmNTNiNmYwZjhhNTRiYTBlYTJiZjY1MGE3NGFjY2E3MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif")
+<img align="right" alt="Coding" width="400"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiMGM1NWNmNTNiNmYwZjhhNTRiYTBlYTJiZjY1MGE3NGFjY2E3MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
