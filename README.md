@@ -1,4 +1,4 @@
-[![MasterHead][("https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif") width="500" height="200"]
+[![MasterHead]["https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" width="500" height="200"]
 <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="banner" width="500" height="200" >
 <h1 align="center">Hi 👋, I'm Aijaz</h1>
 <h3 align="center">A Data enthusiast</h3>
