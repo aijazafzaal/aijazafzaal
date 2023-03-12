@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aijazafzaal&label=Profile%20views&color=0e75b6&style=flat" alt="aijazafzaal" /> </p>
 
-- 🌱 I’m currently learning **Apache Airflow, Apache Spark, AWS**
+- 🌱 I’m currently learning **Azure Data Factory, Azure Data Bricks, Apache Airflow, Apache Spark, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
