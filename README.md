@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aijazafzaal&label=Profile%20views&color=0e75b6&style=flat" alt="aijazafzaal" /> </p>
 
-- 🌱 I’m currently learning about **PostgreSQL, REST APIs, Azure Data Factory, Data Bricks, Apache Airflow, Apache Spark, Kafka, AWS**
+- 🌱 I’m currently learning about **Data Modelling, Data Pipelines, Data Analysis and Visualization and tools like PostgreSQL, REST APIs, Azure Data Factory, AWS, Data Bricks, Apache Airflow, Apache Spark, Kafka **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
