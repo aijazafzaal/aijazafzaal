@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aijazafzaal&label=Profile%20views&color=0e75b6&style=flat" alt="aijazafzaal" /> </p>
 
-- 🌱 I’m currently learning about **Data Pipelines, Data Analysis and Machine Learning along with Cloud Technologies like AWS, Azure and GCP **
+- 🌱 I’m currently learning about **Data Pipelines, Data Analysis and Machine Learning along with Cloud Technologies like AWS, Azure and GCP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
