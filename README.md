@@ -16,6 +16,10 @@
 <a href="https://leetcode.com/aijazmir/" target="_blank">
   <img align="center" src="https://github.com/coreui/coreui-icons/blob/v2/svg/brand/cib-leetcode.svg" alt="LeetCode" height="30" width="40" />
 </a>
+<a href="https://www.kaggle.com/aijazafzaal" target="_blank">
+  <img align="center" src="[https://github.com/simple-icons/simple-icons/blob/develop/icons/kaggle.svg"](https://www.vectorlogo.zone/logos/kaggle/index.html) alt="Kaggle" height="30" width="40" />
+</a>
+
 
 </p>
 
