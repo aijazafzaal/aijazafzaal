@@ -16,6 +16,9 @@
 <a href="https://leetcode.com/aijazmir/" target="_blank">
   <img align="center" src="https://github.com/coreui/coreui-icons/blob/v2/svg/brand/cib-leetcode.svg" alt="LeetCode" height="30" width="40" />
 </a>
+  <a href="https://huggingface.co/aijazafzaal" target="_blank">
+  <img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/hugging-face-icon.svg" alt="LeetCode" height="30" width="40" />
+</a>
 <!--<a href="https://www.kaggle.com/aijazafzaal" target="_blank">
   <img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kaggle.svg" alt="Kaggle" height="40" width="40" />
 </a>-->
